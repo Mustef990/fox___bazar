@@ -7,7 +7,7 @@ import {
   TouchableOpacity,
 } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
-import { ArrowLeft, Truck, MapPin, Clock, CheckCircle, Phone, Navigation } from 'lucide-react-native';
+import { ArrowLeft, Truck, MapPin, Clock, CircleCheck as CheckCircle, Phone, Navigation } from 'lucide-react-native';
 import { router } from 'expo-router';
 
 export default function DeliveryDashboardPage() {
