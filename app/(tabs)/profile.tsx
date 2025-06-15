@@ -9,7 +9,7 @@ import {
   Alert,
 } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
-import { User, ShoppingBag, Target, Share, Settings, LogOut, Mail, Phone, Edit, ChevronRight } from 'lucide-react-native';
+import { User, ShoppingBag, Target, Share, Settings, LogOut, Mail, Phone, CreditCard as Edit, ChevronRight } from 'lucide-react-native';
 import { router } from 'expo-router';
 
 const profileData = {
