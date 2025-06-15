@@ -11,7 +11,7 @@ import {
   Dimensions,
 } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
-import { Search, Mic, Smartphone, Shirt, Wrench, Chrome as HomeIcon, Car, Book, Clock } from 'lucide-react-native';
+import { Search, Mic, Smartphone, Shirt, Wrench, Home as HomeIcon, Car, Book, Clock } from 'lucide-react-native';
 import FoxLogo from '@/components/FoxLogo';
 import CategoryCard from '@/components/CategoryCard';
 import ProductCard from '@/components/ProductCard';

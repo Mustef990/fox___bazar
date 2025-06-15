@@ -9,7 +9,7 @@ import {
   Alert,
 } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
-import { ArrowLeft, CreditCard, MapPin, Truck, CircleCheck as CheckCircle } from 'lucide-react-native';
+import { ArrowLeft, CreditCard, MapPin, Truck, CheckCircle } from 'lucide-react-native';
 import { router } from 'expo-router';
 
 export default function CheckoutPage() {

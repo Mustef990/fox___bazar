@@ -7,7 +7,7 @@ import {
   TouchableOpacity,
 } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
-import { ArrowLeft, Package, Truck, CircleCheck as CheckCircle, Clock, MapPin } from 'lucide-react-native';
+import { ArrowLeft, Package, Truck, CheckCircle, Clock, MapPin } from 'lucide-react-native';
 import { router, useLocalSearchParams } from 'expo-router';
 
 interface OrderStatus {

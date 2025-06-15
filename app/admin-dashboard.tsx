@@ -7,7 +7,7 @@ import {
   TouchableOpacity,
 } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
-import { ArrowLeft, Users, Store, Package, DollarSign, TrendingUp, Settings, ChartBar as BarChart3, Shield, Bell } from 'lucide-react-native';
+import { ArrowLeft, Users, Store, Package, DollarSign, TrendingUp, Settings, BarChart3, Shield, Bell } from 'lucide-react-native';
 import { router } from 'expo-router';
 
 export default function AdminDashboardPage() {
